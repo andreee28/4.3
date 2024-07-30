@@ -1,0 +1,20 @@
+{
+  "name": "simple-file-compressor-js",
+  "version": "1.0.0",
+  "description": "Provide text file, it will compress into smaller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "compressor",
+    "zip",
+    "rle"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
