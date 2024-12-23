@@ -1,0 +1,11 @@
+install jest
+
+npm install --save-dev jest
+
+tambahin test match di package.json
+
+ "jest": {
+    "testMatch": [
+      "**/*.jest.js" 
+    ]
+}
